@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "89565584775",
+    "project_id": "chat-app-1b6dd",
+    "storage_bucket": "chat-app-1b6dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89565584775:android:62ec8522479981b1d64722",
+        "android_client_info": {
+          "package_name": "com.canevcimen.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw_SKmcp1ewg7vlHCdOJIuh4QNjOZNAbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
